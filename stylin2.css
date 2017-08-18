@@ -36,6 +36,20 @@ body, html {
     background-image: url("lineart.jpg");
     min-height: 400px;
 }
+.thinbutton {
+  border:none;
+  display:inline-block;
+  outline:0;
+  padding:4px 8px;
+  vertical-align:middle;
+  overflow:hidden;
+  text-decoration:none;
+  color:inherit;
+  background-color:inherit;
+  text-align:center;
+  cursor:pointer;
+  white-space:nowrap
+}
 
 .center {
     position: relative;
@@ -73,6 +87,10 @@ body, html {
   padding-right: 4px;
   background-color: #474b51;
   text-align: center;
+}
+
+.logospacing {
+  padding-top: 20px;
 }
 
 .table {
