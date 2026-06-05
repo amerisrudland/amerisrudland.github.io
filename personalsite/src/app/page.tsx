@@ -7,10 +7,13 @@ export default function Home() {
         Hi, my name is Ameris Rudland. I am a full-stack software engineer based
         in Toronto, Canada.
         <br />
-        I specialize in building high-quality web applications and have a
-        passion for learning new technologies and improving my skills.
+        I have 5 years of experience building full-stack at scales of up to 100M monthly active users, and I&apos;ve learned how to make a few optimizations and lead with data along the way.
         <br />
-        Feel free to explore my resume and LinkedIn profile below!
+        Nothing excites me quite like synthesizing ideas into a product or service that delivers real value. In my spare time, I&apos;m directing that energy towards my volunteering, too.
+        <br />
+        I&apos;m building a few new projects right now, so this site is a work in progress. Over the course of the next while I hope to add some blog posts explaining what I&apos;m building and why.
+        <br />
+        In the meantime, feel free to explore my resume and LinkedIn profile below!
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <a
